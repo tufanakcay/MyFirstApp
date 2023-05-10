@@ -1,2 +1,1 @@
-# MyFirstApp
 First App Repository
